@@ -1,2 +1,2 @@
 # detpop
- a tutorial on determinantal point process
+ a tutorial on determinantal point processes
